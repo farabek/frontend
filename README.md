@@ -2,6 +2,16 @@
 
 This is a file with a top-level heading
 
+Stack:
+Frontend:
+- NextJS / React
+- TypeScript
+- Redux / Redux Saga
+- EditorJS
+- React Hook Form / Yup
+- Material UI
+- SCSS / CSS-modules
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
